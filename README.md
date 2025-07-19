@@ -1,4 +1,4 @@
-# AI-Powered answer Generator
+© 2022 Cognizant. All rights reserved.  # AI-Powered answer Generator
 
 ## Project Overview
 This project implements an AI-powered answer generator . It utilizes advanced language models and vector stores to understand and process user queries efficiently.
